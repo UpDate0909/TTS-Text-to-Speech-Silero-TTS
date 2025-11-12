@@ -1,0 +1,75 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Logs
+*.log
+text_to_vois.log
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+temp_tts_chunks/
+*.tmp
+
+# Audio files (optional - раскомментируйте, если не хотите добавлять аудио в репозиторий)
+# *.mp3
+# *.wav
+
+# Documents (optional - раскомментируйте, если не хотите добавлять документы в репозиторий)
+# *.docx
+# *.doc
+
+# Model cache
+.cache/
+
+# Test files
+Новая папка/
+
+# Build artifacts
+build/
+dist/*.exe
+
+# Documentation files
+План работы приложения.txt
+Сказка про сверчка.docx
