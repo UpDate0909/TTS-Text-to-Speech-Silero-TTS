@@ -334,9 +334,9 @@ TTS-Text-to-Speech-Silero-TTS/
 
 ---
 
-## 📬 Контакты
+📬 Контакты
 
-**Автор:** UpDate0909
+Автор: [![GitHub](https://img.shields.io/badge/GitHub-UpDate0909-181717?logo=github)](https://github.com/UpDate0909)
 
 - 🌐 Сайт: [ewwo.ru](https://ewwo.ru)
 - 💻 GitHub: [@UpDate0909](https://github.com/UpDate0909)
